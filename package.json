@@ -1,0 +1,23 @@
+{
+  "name": "basic-cors-anywhere-example",
+  "version": "1.0.0",
+  "description": "good for localhost environments, basic usage of cors anywhere library",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDimmitt/basic-cors-anywhere-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelDimmitt/basic-cors-anywhere-example/issues"
+  },
+  "homepage": "https://github.com/MichaelDimmitt/basic-cors-anywhere-example#readme",
+  "devDependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
